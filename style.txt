@@ -1,0 +1,48 @@
+
+.special_blue{
+    color:#003cc2;
+}
+
+.special_blue_button{
+    color: white;
+    border-color:#003cc2;
+    background-color: #003cc2;
+}
+
+
+.radio_element{
+    display: inline-block;
+}
+#image
+{
+    height: 10px;
+    width: 10px;
+    
+}
+#name
+{
+    color: #003cc2 
+}
+
+#admin_navbar
+{
+    background-color: #003cc2 ;
+    border-color:#003cc2;
+    
+}
+
+
+.erreur
+{
+    margin-top:-10px;
+    margin-bottom: -10px;
+
+}
+
+.erreur1
+{
+    margin-top:-15px;
+    
+/*    margin-bottom: -10px;*/
+
+}
